@@ -9,7 +9,7 @@
 
 ### 💫 About Me
 
-- 🎓 Final-year B.Tech Computer Science undergraduate (2023–2027) at Pranveer Singh Institute of Technology, Kanpur — CGPA 7.9/10.0
+- 🎓 Final-year B.Tech Computer Science undergraduate (2023–2027) at Pranveer Singh Institute of Technology, Kanpur
 - 🛠️ Experienced in designing **backend services in Java & Spring Boot**, including event-driven architectures, ORM-based data persistence, containerized deployments, and cloud/DevOps tooling
 - 🔭 Comfortable across the backend stack — from **REST API design to CI/CD automation**
 - 🤖 Built projects integrating **LLMs (DeepSeek via Spring AI & Ollama)** into distributed microservice systems
