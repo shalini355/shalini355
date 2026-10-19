@@ -92,7 +92,7 @@
 
 </details>
 
-[**Read the case study →**](YOUR_QUIZ_BUDDY_LINK)
+[**Read the case study →**](https://medium.com/@shaliniyadav355/designing-quiz-buddy-a-sign-up-free-way-to-practice-coding-ca82e4737c99)
 
 ---
 
