@@ -47,7 +47,7 @@ My edge is simple: most designers can't ship, and most engineers don't sweat the
 ### 🌿 KAI 2.0
 *AI well-being companion*
 
-<img src="https://github.com/user-attachments/assets/ade75221-b57d-46d1-a8ce-72f7bc1ac6db" alt="KAI 2.0 preview" width="100%" />
+<img src="https://github.com/user-attachments/assets/284ea5b3-67cd-46b7-a68c-ce55a34be54b" alt="Quiz Buddy preview" width="100%" />
 
 **🌸 Problem:** Reaching out when you're low is hard, and most apps feel clinical or demanding.
 
@@ -66,7 +66,7 @@ My edge is simple: most designers can't ship, and most engineers don't sweat the
 ### 🧠 Quiz Buddy
 *Programming practice platform*
 
-<img src="https://github.com/user-attachments/assets/284ea5b3-67cd-46b7-a68c-ce55a34be54b" alt="Quiz Buddy preview" width="100%" />
+<img src="https://github.com/user-attachments/assets/ade75221-b57d-46d1-a8ce-72f7bc1ac6db" alt="KAI 2.0 preview" width="100%" />
 
 **🌸 Problem:** Practice tools feel noisy, and users get lost when something breaks.
 
