@@ -1,94 +1,95 @@
-<h1 align="center">Hi 👋, I'm Shalini Yadav</h1>
-<h3 align="center">Software Engineer Intern | Backend Developer | Java & Spring Boot Enthusiast</h3>
+<h1 align="center">Hi, I'm Shalini 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Backend+Developer+%7C+Java+%2F+Spring+Boot;Building+Event-Driven+Microservices;Cloud+%26+DevOps+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+  <b>Product Designer & Frontend Engineer</b><br/>
+  <i>Bridging art and code, designing calm web apps and building them in React/TypeScript.</i>
+</p>
+
+<p align="center">
+  B.Tech CSE '27 · PSIT Kanpur, India
+</p>
+
+<p align="center">
+  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> ·
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> ·
+  <a href="mailto:YOUR_EMAIL">Email</a>
 </p>
 
 ---
 
-### 💫 About Me
+## About
 
-- 🎓 Final-year B.Tech Computer Science undergraduate (2023–2027) at Pranveer Singh Institute of Technology, Kanpur
-- 🛠️ Experienced in designing **backend services in Java & Spring Boot**, including event-driven architectures, ORM-based data persistence, containerized deployments, and cloud/DevOps tooling
-- 🔭 Comfortable across the backend stack — from **REST API design to CI/CD automation**
-- 🤖 Built projects integrating **LLMs (DeepSeek via Spring AI & Ollama)** into distributed microservice systems
-- 🌱 Actively exploring distributed systems, Kafka-based event pipelines, and Infrastructure as Code
-- 🎯 Currently seeking a **Software Developer Internship** to apply and grow these skills on production systems
-- ⚡ Fun fact: Former Campus Ambassador @ Unstop, driving student participation in tech competitions
+I'm a final-year Computer Science student moving into product design. I started in code, but I kept finding myself more curious about *how a product feels* than how it's wired together: where the eye lands first, what a screen says when something goes wrong, and how a small interaction can make someone feel at ease.
+
+That curiosity shapes how I work. I design the flow in Figma, then build it myself in React and TypeScript, so what ships is what I intended. I care most about calm, clear interfaces, especially in moments where users are uncertain, stressed, or stuck.
 
 ---
 
-### 🚀 Featured Projects
+## Featured Projects
 
-**🔹 AI-Powered Distributed Project & Task Management Ecosystem**
-`Java` `Spring Boot 3.x` `Spring AI` `DeepSeek LLM` `Docker` `PostgreSQL` `Apache Kafka`
-- Built an event-driven notification system using Apache Kafka to coordinate real-time updates across independent task microservices
-- Integrated a local DeepSeek LLM via Spring AI and Ollama for automated task decomposition and contextual priority suggestions
-- Secured stateless API endpoints with Spring Security, JWT, and OAuth2
-- Containerized the multi-service system using custom multi-stage Dockerfiles and Docker Compose
+### 🌿 KAI 2.0: AI Well-Being Companion
+A gentle, AI-powered space for people to check in with themselves.
 
-**🔹 Cloud-Native Microservices Retail Analytics Engine**
-`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MongoDB` `Jenkins CI/CD` `Terraform`
-- Designed high-throughput REST APIs structured into decoupled, domain-driven modules
-- Tuned Hibernate & Spring Data JPA persistence mappings to reduce N+1 query overhead
-- Automated cloud deployment pipelines with Jenkins and Ansible, provisioned infra with Terraform
-- Set up structured logging & error tracking with Log4j for faster debugging
+- **Mood tracking** designed to feel effortless rather than clinical
+- **Anonymous entry**, so users can start without friction or pressure
+- **Calm fallback states** that stay reassuring when the AI is slow, offline, or unsure
+- **Design focus:** emotional tone, low-stimulation visuals, and clear next steps at every point
+
+`UX Design` `Interaction States` `React` `TypeScript`
+
+🔗 [View project](YOUR_KAI_LINK)
 
 ---
 
-### 🌐 Connect with Me
+### 🧠 Quiz Buddy: Programming Practice Platform
+A focused place to practise programming concepts through quizzes.
 
-<p align="left">
-<a href="https://linkedin.com/in/shalini-yadav-355abc" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="mailto:syhalini@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/shalini355" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-</p>
+- **Clear user flows** from choosing a topic to answering to reviewing results
+- **Defensive UI states** for loading, empty, error, and edge cases, so users are never left guessing
+- **Design focus:** screen hierarchy, readable feedback, and a low-distraction practice experience
 
----
+`User Flows` `Screen Hierarchy` `React` `TypeScript`
 
-### 🧰 Tech Stack
-
-**Languages & Core**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
-**Backend & Frameworks**
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-
-**Distributed Systems & Messaging**
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-005571?style=for-the-badge&logo=buffer&logoColor=white)
-
-**Cloud & DevOps**
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-**Databases & Build Tools**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+🔗 [View project](YOUR_QUIZ_BUDDY_LINK)
 
 ---
 
-### 📊 GitHub Stats
+### 🎨 Product Designer Portfolio
+My live UI/UX case study portal, designed and built from scratch.
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shalini355&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini355&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+- Case studies that walk through **problem → process → solution**
+- Designed in Figma, then built as a responsive, accessible frontend
+- A working example of the design-to-code approach I bring to a team
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=shalini355&theme=radical&hide_border=false" />
-</p>
+`Case Studies` `Figma` `React` `Tailwind CSS`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shalini355&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
+🔗 [Visit the portfolio](YOUR_PORTFOLIO_URL)
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+## Design & Tech Stack
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=shalini355&icon=0&color=0" /></a>
-</p>
+| | |
+|---|---|
+| **🎨 Design & UX** | Figma · FigJam · User Flows · Screen Hierarchy · Interaction States |
+| **💻 Frontend Build** | React · TypeScript · Tailwind CSS · HTML/CSS · JavaScript |
+| **🔧 Supporting Stack** | Node.js · Git · GitHub |
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## How I Work
+
+- **Start with the user's state of mind,** not just their task.
+- **Design the unhappy paths:** errors, empty screens, and slow connections are part of the product.
+- **Keep it simple.** If something doesn't need to be on the screen, it isn't.
+- **Close the gap between design and build** by owning both.
+
+---
+
+## Let's Connect
+
+I'm looking for **Product Design / UI/UX internships and junior roles**, especially in teams that value design-minded engineers.
+
+📫 [Email](mailto:YOUR_EMAIL) · 💼 [LinkedIn](YOUR_LINKEDIN_URL) · 🌐 [Portfolio](YOUR_PORTFOLIO_URL)
+
+<p align="center"><sub>Designed with care, built with code. 🌸</sub></p>
