@@ -61,7 +61,7 @@
 
 </details>
 
-[**Read the case study →**](YOUR_KAI_LINK)
+[**Read the case study →**](https://medium.com/@shaliniyadav355/designing-kai-2-0-a-calm-sign-up-free-ai-well-being-companion-for-students-4f630e3ca880)
 
 ---
 
@@ -154,9 +154,9 @@ Designed in Figma, then built from scratch as a responsive site. Each case study
 I'm actively looking for **Product Design / UI-UX internships and junior roles**. If your team cares about interfaces that feel good *and* actually ship, I'd love to talk.
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL">📫 Email</a> &nbsp;·&nbsp;
-  <a href="YOUR_LINKEDIN_URL">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="YOUR_PORTFOLIO_URL">🌐 Portfolio</a>
+  <a href="mailto:syhalini@gmail.com">📫 Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/shalini-yadav-355abc">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://shalini-yadav-product-designer-port-opal.vercel.app/">🌐 Portfolio</a>
 </p>
 
 <!-- FOOTER -->
