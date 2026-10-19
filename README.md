@@ -1,8 +1,4 @@
 <!-- HEADER -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hi%2C%20I'm%20Shalini%20%E2%9C%A8&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20%26%20Frontend%20Engineer&descAlignY=60&descSize=20" alt="Shalini - Product Designer and Frontend Engineer" />
-</p>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/shalini355">
