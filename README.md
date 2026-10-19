@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://shalini-yadav-product-designer-port-opal.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%B8_View_Portfolio-A855F7?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/shalini-yadav-355abc"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-F472B6?style=for-the-badge" /></a>
-  <a href="mailto:syhalini@gmail.comm"><img src="https://img.shields.io/badge/%F0%9F%92%8C_Hire_Me-C084FC?style=for-the-badge" /></a>
+  <a href="mailto:syhalini@gmail.com"><img src="https://img.shields.io/badge/%F0%9F%92%8C_Hire_Me-C084FC?style=for-the-badge" /></a>
 </p>
 
 ---
