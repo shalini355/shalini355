@@ -1,4 +1,8 @@
 <!-- HEADER -->
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=230&section=header&text=Hi%2C%20I'm%20Shalini%20%E2%9C%A8&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20%26%20Frontend%20Engineer&descAlignY=60&descSize=20" alt="Shalini - Product Designer and Frontend Engineer" />
+</p>
+
 <!-- TYPING ANIMATION -->
 <p align="center">
   <a href="https://github.com/shalini355">
@@ -12,7 +16,7 @@
   <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/%F0%9F%92%8C_Email-C084FC?style=for-the-badge" /></a>
 </p>
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆</p>
+<p align="center">✦ ⋆ ✦ ⋆ ✦</p>
 
 ## 🎀 About Me
 
@@ -22,7 +26,7 @@ Hello, I'm **Shalini**! A final-year **B.Tech CSE '27 student at PSIT Kanpur** w
 
 My edge is simple: most designers can't ship, and most engineers don't sweat the pixels. I do both, with a love for **calm, clear, human interfaces** 🌿
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆</p>
+<p align="center">✦ ⋆ ✦ ⋆ ✦</p>
 
 ## 🌷 What I Bring to a Team
 
@@ -32,7 +36,7 @@ My edge is simple: most designers can't ship, and most engineers don't sweat the
 | Interaction states in Figma | Tailwind design systems | Emotional tone of a product |
 | Calm, low-noise layouts | Clean, accessible frontend | Where users get stuck, and why |
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆</p>
+<p align="center">✦ ⋆ ✦ ⋆ ✦</p>
 
 ## 🚀 Featured Projects
 
@@ -43,7 +47,7 @@ My edge is simple: most designers can't ship, and most engineers don't sweat the
 ### 🌿 KAI 2.0
 *AI well-being companion*
 
-<img src="https://github.com/user-attachments/assets/284ea5b3-67cd-46b7-a68c-ce55a34be54b" alt="Quiz Buddy preview" width="100%" />
+<img src="https://github.com/user-attachments/assets/284ea5b3-67cd-46b7-a68c-ce55a34be54b" alt="KAI 2.0 preview" width="100%" />
 
 **🌸 Problem:** Reaching out when you're low is hard, and most apps feel clinical or demanding.
 
@@ -62,7 +66,7 @@ My edge is simple: most designers can't ship, and most engineers don't sweat the
 ### 🧠 Quiz Buddy
 *Programming practice platform*
 
-<img src="https://github.com/user-attachments/assets/ade75221-b57d-46d1-a8ce-72f7bc1ac6db" alt="KAI 2.0 preview" width="100%" />
+<img src="https://github.com/user-attachments/assets/ade75221-b57d-46d1-a8ce-72f7bc1ac6db" alt="Quiz Buddy preview" width="100%" />
 
 **🌸 Problem:** Practice tools feel noisy, and users get lost when something breaks.
 
@@ -90,7 +94,7 @@ Every case study walks through **problem → process → solution**, so you see 
 
 `Case Studies` `Figma` `React` `Tailwind CSS` &nbsp;·&nbsp; [**Visit the live portfolio →**](YOUR_PORTFOLIO_URL)
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆</p>
+<p align="center">✦ ⋆ ✦ ⋆ ✦</p>
 
 ## 🧸 Design & Tech Stack
 
@@ -112,7 +116,7 @@ Every case study walks through **problem → process → solution**, so you see 
 
 `Node.js` · `Git` · `GitHub`
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆</p>
+<p align="center">✦ ⋆ ✦ ⋆ ✦</p>
 
 ## 🌱 Right Now
 
@@ -121,16 +125,22 @@ Every case study walks through **problem → process → solution**, so you see 
 - 📚 Learning how great products handle edge cases and emotion
 - 🔎 Looking for **Product Design / UI-UX internships & junior roles**
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆</p>
+<p align="center">✦ ⋆ ✦ ⋆ ✦</p>
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shalini355&show_icons=true&hide_border=true&theme=default&title_color=A855F7&icon_color=F472B6&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini355&layout=compact&hide_border=true&title_color=A855F7&bg_color=00000000" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shalini355&show_icons=true&hide_border=true&hide_rank=true&hide=contribs,issues&theme=transparent&title_color=A855F7&icon_color=F472B6&text_color=E5E7EB&bg_color=00000000">
+    <img height="165" alt="Shalini's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shalini355&show_icons=true&hide_border=true&hide_rank=true&hide=contribs,issues&theme=transparent&title_color=A855F7&icon_color=F472B6&text_color=374151&bg_color=00000000" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini355&layout=compact&hide_border=true&hide=python,java&theme=transparent&title_color=A855F7&text_color=E5E7EB&bg_color=00000000">
+    <img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shalini355&layout=compact&hide_border=true&hide=python,java&theme=transparent&title_color=A855F7&text_color=374151&bg_color=00000000" />
+  </picture>
 </p>
 
-<p align="center">⋆ ˚｡⋆୨୧˚ ˚୨୧⋆｡˚ ⋆</p>
+<p align="center">✦ ⋆ ✦ ⋆ ✦</p>
 
 ## 💌 Let's Build Something Calm
 
