@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/%F0%9F%8C%B8_View_Portfolio-A855F7?style=for-the-badge" /></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-F472B6?style=for-the-badge" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/%F0%9F%92%8C_Hire_Me-C084FC?style=for-the-badge" /></a>
+  <a href="https://shalini-yadav-product-designer-port-opal.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%B8_View_Portfolio-A855F7?style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/shalini-yadav-355abc"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-F472B6?style=for-the-badge" /></a>
+  <a href="mailto:syhalini@gmail.comm"><img src="https://img.shields.io/badge/%F0%9F%92%8C_Hire_Me-C084FC?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -105,7 +105,7 @@
 
 Designed in Figma, then built from scratch as a responsive site. Each case study walks through **problem → process → solution**, so you can see *how I think*, not just the final screens.
 
-[**Visit the live portfolio →**](YOUR_PORTFOLIO_URL)
+[**Visit the live portfolio →**](https://shalini-yadav-product-designer-port-opal.vercel.app/)
 
 <p align="center">✦ ⋆ ✦ ⋆ ✦</p>
 
