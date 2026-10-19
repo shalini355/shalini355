@@ -1,3 +1,6 @@
+<img width="824" height="467" alt="Screenshot 2026-10-18 221048" src="https://github.com/user-attachments/assets/ade75221-b57d-46d1-a8ce-72f7bc1ac6db" />
+<img width="668" height="463" alt="Screenshot 2026-10-19 011940" src="https://github.com/user-attachments/assets/284ea5b3-67cd-46b7-a68c-ce55a34be54b" />
+<img width="959" height="475" alt="Screenshot 2026-10-19 124750" src="https://github.com/user-attachments/assets/318650e5-76ae-4645-88ec-f58b5a46b2af" />
 <!-- HEADER -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Shalini&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Product%20Designer%20%26%20Frontend%20Engineer&descAlignY=58&descSize=20" alt="Shalini - Product Designer and Frontend Engineer" />
